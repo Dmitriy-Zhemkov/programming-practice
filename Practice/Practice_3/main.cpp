@@ -13,6 +13,7 @@ auto GetRandomNumbers(int min, int max) {
 
 int main() {
     srand(time(NULL));
+    int arr[]
     std::vector<int> vector_int;
     std::vector<float> vector_float;
     double sum = 0;
